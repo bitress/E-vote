@@ -3,7 +3,7 @@
 
 const DB_HOST = "localhost";
 const DB_USER = "root";
-const DB_PASS = "";
+const DB_PASS = "EDscMIJndts4lAo8";
 const DB_NAME = "evote";
 
 const APP_NAME = "E-Vote System";
